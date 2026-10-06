@@ -14,7 +14,7 @@ import {
 export default function ArtikelPage() {
     return (
         <Card className="m-6">
-            <h1 className="text-2xl font-bold mb-2">User Management</h1>
+            <h1 className="text-2xl font-bold mb-2">Artikel</h1>
             <p>Manage your users here.</p>
             <Table className="mt-4">
                 <TableHeader>
